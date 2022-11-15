@@ -132,13 +132,13 @@
 
 <p align="center">
   <h1 align="center">
-    <a href="https://github.com/stedolan/jq"><code>jq</code></a>
+    <a href="https://github.com/dflemstr/rq"><code>rq</code></a>
   </h1>
   <p align="center">
-    <code>sed</code> for JSON data.
+    <code>sed/jq</code> for JSON data.
   </p>
   <p align="center">
-    <img src="https://blog.noenieto.com/media/gnome-shell-screenshot-VMABUZ.png" width="600" />
+    <img src="https://github.com/dflemstr/rq/blob/master/doc/image/highlighting.png" width="600" />
   </p>
 </p>
 
