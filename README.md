@@ -7,7 +7,7 @@
   </h1> 
   <p align="center">An interactive cheatsheet tool for the command-line</p>
   <p align="center">
-    <img src="[![asciicast](https://asciinema.org/a/406461.svg)]" width="600"/>
+    <img src="https://asciinema.org/a/406461" width="600"/>
   </p>
 </p>
 <p align="center">
