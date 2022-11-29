@@ -1,5 +1,16 @@
 <h1 align="center">Modern Unix</h1>
 
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/jarun/nnn"><code>nnn</code></a>
+  </h1> 
+  <p align="center">n³ The unorthodox terminal file manager</p>
+  <p align="center">
+    <img src="https://i.imgur.com/kOld6HT.gif" width="600"/>
+  </p>
+</p>
+
 <p align="center">
   <h1 align="center">
     <a href="https://github.com/antonmedv/fx"><code>fx</code></a>
