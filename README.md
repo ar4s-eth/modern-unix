@@ -27,7 +27,7 @@
   </h1>
   <p align="center">A simple terminal UI for git commands.</p>
   <p align="center">
-    <img src="https://github.com/wagoodman/dive/blob/master/.data/demo.gif" width="600"/>
+    <img src="https://github.com/jesseduffield/lazygit/blob/assets/staging.gif" width="600"/>
   </p>
 </p>
 
