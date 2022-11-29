@@ -1,6 +1,17 @@
 <h1 align="center">Modern Unix</h1>
 
 
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/charmbracelet/glow"><code>glow</code></a>
+  </h1> 
+  <p align="center">Render markdown on the CLI, with pizzazz!</p>
+  <p align="center">
+    <img src="[https://asciinema.org/a/406461](https://camo.githubusercontent.com/bd591b74af8a6991894c8a84ab8d48f05ce7f66975b325d31f6954c836ddab27/68747470733a2f2f73747566662e636861726d2e73682f676c6f772f676c6f772d312e332d747261696c65722d6769746875622e676966)" width="600"/>
+  </p>
+</p>
+
 <p align="center">
   <h1 align="center">
     <a href="https://github.com/denisidoro/navi"><code>navi</code></a>
@@ -10,6 +21,7 @@
     <img src="https://asciinema.org/a/406461" width="600"/>
   </p>
 </p>
+
 <p align="center">
   <h1 align="center">
     <a href="https://github.com/jarun/nnn"><code>nnn</code></a>
