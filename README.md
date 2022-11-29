@@ -4,7 +4,7 @@
   <h1 align="center">
     <a href="https://github.com/antonmedv/fx"><code>fx</code></a>
   </h1> 
-  <p align="center">.</p>
+  <p align="center">Terminal JSON viewer.</p>
   <p align="center">
     <img src="https://github.com/antonmedv/fx/blob/master/doc/images/themes.png" width="600"/>
   </p>
