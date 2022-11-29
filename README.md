@@ -1,5 +1,16 @@
 <h1 align="center">Modern Unix</h1>
 
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/wagoodman/dive"><code>dive</code></a>
+  </h1>
+  <p align="center">A tool for exploring each layer in a <code>docker</code> image.</p>
+  <p align="center">
+    <img src="https://github.com/wagoodman/dive/blob/master/.data/demo.gif" width="600" />
+  </p>
+</p>
+
 <p align="center">
   <h1 align="center">
     <a href="https://github.com/sharkdp/bat"><code>bat</code></a>
