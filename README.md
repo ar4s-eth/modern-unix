@@ -3,7 +3,7 @@
 
 <p align="center">
   <h1 align="center">
-    <a href="https://github.com/anchore/syft"><code>glow</code></a>
+    <a href="https://github.com/anchore/syft"><code>syft</code></a>
   </h1> 
   <p align="center">CLI tool and library for generating a Software Bill of Materials from container images and filesystems</p>
   <p align="center">
