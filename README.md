@@ -2,11 +2,21 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/Peltoche/lsd"><code>LSD (LSDeluxe)</code></a>
+  </h1> 
+  <p align="center">Use any linux distribution inside your terminal.</p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Peltoche/lsd/assets/screen_lsd.png" width="600"/>
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/89luca89/distrobox"><code>distrobox</code></a>
   </h1> 
   <p align="center">Use any linux distribution inside your terminal. </p>
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/590471/90277200-2a253000-de33-11ea-893f-32c219eea11a.gif" width="600"/>
+    <img src="https://user-images.githubusercontent.com/598882/144294862-f6684334-ccf4-4e5e-85f8-1d66210a0fff.png" width="600"/>
   </p>
 </p>
 <p align="center">
